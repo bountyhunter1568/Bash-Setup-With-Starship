@@ -16,7 +16,7 @@ function finish(){
 		mv "$(dirname $(readlink -f $0))" "$(dirname $(readlink -f $0))-Complete";
 		cd "..";
 	else
-		echo "YOUR NOT DONE LOSER. GOD YOU SUCK.";
+		echo "YOUR NOT DONE. Add a txt file named \"flag\" to make this command work";
 	fi
 }
 
