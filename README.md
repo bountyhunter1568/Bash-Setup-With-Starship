@@ -35,3 +35,9 @@ mkctf -w ctfname "website *website name here*" "Great CTF" "Cant wait" "date : *
 aliases
 back, goes to the parent directory
 cl, clears the terminal
+
+
+# Coming Soon!
+A JSON parcer so I can store variables across different terminal sessions
+
+I plan on it having multiple functions that work with the JSON file, one function that I plan to add is the ability to store the output of a command or a command in general to the JSON file then load that response into another terminal
