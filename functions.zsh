@@ -161,5 +161,5 @@ function mkctf {
 				fi
 			fi
 	fi
-	echo "CTF Created with info in info.txt. \nThanks for using CTF Creator by: Brett"
+	echo "CTF Created with info in info.txt. \nThanks for using CTF Creator"
 }
