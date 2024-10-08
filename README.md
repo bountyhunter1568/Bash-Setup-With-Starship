@@ -24,12 +24,11 @@ This is just used for my basic needs on creating directories it makes the folder
 ## mkchal()
 Does the same thing as mkcd pretty much but add "-chal" to it to make different challenges
 
-> [!WARNING]
-> **WARNING "finish" CAN BE USED IN ANY DIRECTORY AND CHANGES THE NAME OF THE DIRECTORY**
-
 ## finish()
 Used in a challenge or "-chal" directories used when completed with a challenge the check for a completed challenge is if flag.txt exists then changes the name of the directory to Directory name + "-Complete"
-
+> [!WARNING]
+> **WARNING "finish" CAN BE USED IN ANY DIRECTORY AND CHANGES THE NAME OF THE DIRECTORY**
+<br><br>
 ## mktxt()
 Creates a txt file with the first argument being the content and the second argument being the title of the txt file
 
