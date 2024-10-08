@@ -5,7 +5,11 @@ Mostly taken from ChrisTitusTech: https://github.com/ChrisTitusTech/mybash/tree/
 You can either copy and paste the whole bashrc file or just copy and paste the functions you need
 
 ## starship.toml
-'Also mostly taken from ChrisTitusTech, the directories I have set will be blurred out with "$$$$$$$$$"'
+Also mostly taken from ChrisTitusTech, the directories I have set will be blurred out with "$$$$$$$$$". If you want the font I used it the nerd font.
+
+Font Name: MesloLGS Nerd Font Mono
+
+Link: https://github.com/ryanoasis/nerd-fonts/releases/latest/
 
 <br><br>
 # CTF Commands
@@ -50,9 +54,3 @@ mkctf -w ctfname "website *website name here*" "Great CTF" "Cant wait" "date : *
 ## Aliases
 back, goes to the parent directory
 cl, clears the terminal
-
-
-# Coming Soon!
-A JSON parcer so I can store variables across different terminal sessions
-
-I plan on it having multiple functions that work with the JSON file, one function that I plan to add is the ability to store the output of a command or a command in general to the JSON file then load that response into another terminal
