@@ -1,4 +1,13 @@
-# CTF-Bash-Functions
+# Bash setup with starship
+
+## .bashrc
+Mostly taken from ChrisTitusTech: https://github.com/ChrisTitusTech/mybash/tree/main. With some of my stuff sprinkled in.
+You can either copy and paste the whole bashrc file or just copy and paste the functions you need
+
+## starship.toml
+---
+Also mostly taken from ChrisTitusTech, the directories I have set will be blurred out with "$$$$$$$$$"
+---
 Here are some functions for bash for CTFS
 This is a collection of bash/zsh functions that I made for keeping organized during CTFs.
 
