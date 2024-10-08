@@ -5,9 +5,10 @@ Mostly taken from ChrisTitusTech: https://github.com/ChrisTitusTech/mybash/tree/
 You can either copy and paste the whole bashrc file or just copy and paste the functions you need
 
 ## starship.toml
----
-Also mostly taken from ChrisTitusTech, the directories I have set will be blurred out with "$$$$$$$$$"
----
+'Also mostly taken from ChrisTitusTech, the directories I have set will be blurred out with "$$$$$$$$$"'
+
+<br><br>
+# CTF Commands
 Here are some functions for bash for CTFS
 This is a collection of bash/zsh functions that I made for keeping organized during CTFs.
 
