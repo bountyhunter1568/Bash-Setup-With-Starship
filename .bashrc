@@ -555,9 +555,9 @@ mysqlconfig() {
 	fi
 }
 
-ctf(){ cd "/media/sf_Host-CTF"; }
+ctf(){ cd "$$$$$$$$$$$$$$"; }
 
-download(){ cd "/home/kali/Downloads/"; }
+download(){ cd "$$$$$$$$$$$$$$"; }
 
 export PATH=$PATH:"$HOME/.local/bin:$HOME/.cargo/bin:/var/lib/flatpak/exports/bin:/.local/share/flatpak/exports/bin"
 
